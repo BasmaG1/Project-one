@@ -5,7 +5,7 @@ float margin = 50;
 
 boolean isBothered = false;
 int botheredMarkTime = 0;
-int botheredTimeout = 3000; // Processing measures time in milliseconds
+int botheredTimeout = 3000; 
 float botheredSpread = 5;
 
 boolean isBlinking = false;
